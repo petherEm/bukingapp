@@ -65,7 +65,7 @@ const Header = ({ type }) => {
         {type !== "list" && (
           <>
             <h1 className="text-4xl font-bold">
-              A lifetime of discounts? It's Genius.
+              A lifetime of discounts? It&apos;s Genius.
             </h1>
             <p className="text-xl">
               Get rewarded for your travels - unlock instant savings of{" "}
